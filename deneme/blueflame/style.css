@@ -1,0 +1,22 @@
+.menu ul {
+  display: flex;
+  flex-direction: row; 
+  list-style: none;
+}
+
+.menu ul li a {
+ color: #fff;
+ text-decoration: none;
+ padding: -0.75em 1.5em ;
+
+ font-size: 0.70rem;
+ font-weight:700;
+ font-family: poppins;
+}
+
+ul li{
+  margin-left: 0.28rem;
+}
+ul li:first-child{
+  margin-left: 0;
+}
